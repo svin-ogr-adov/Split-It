@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>123.svg</file>
+    </qresource>
+    <qresource prefix="/libs"/>
+</RCC>
